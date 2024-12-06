@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="RemoteTargetsManager">
+    <targets>
+      <target name="root@113.44.73.100:22" type="ssh/sftp" uuid="341be66c-caf3-443a-8c19-6fbd7d4f9a07">
+        <config>
+          <option name="projectRootOnTarget" value="/www/wwwroot/video.lz-net.cn" />
+          <option name="serverName" value="root@113.44.73.100:22 password" />
+        </config>
+        <ContributedStateBase type="RsLanguageRuntime">
+          <config />
+        </ContributedStateBase>
+      </target>
+    </targets>
+  </component>
+</project>
