@@ -17,6 +17,3 @@ lto = true               # 启用链接时优化
 codegen-units = 1        # 减少代码生成单元数量（提高优化效果）
 panic = "abort"          # 使用更轻量级的 panic 处理
 strip = true             # 移除调试信息（减小文件体积）
-
-[target.x86_64-unknown-linux-gnu]
-linker = "x86_64-linux-gnu-gcc"
